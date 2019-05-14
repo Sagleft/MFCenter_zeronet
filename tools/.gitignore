@@ -1,3 +1,5 @@
 # должны загружаться через load_tools.sh
 paper-wallet/**
 web-wallet/**
+blockconfirmationalarm/**
+antizapret/**

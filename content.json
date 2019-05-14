@@ -1,0 +1,786 @@
+{
+ "address": "13h93YBktjtqtxYVPfXdDwXTDJzjCxfR4i",
+ "address_index": 44475860,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "\u0414\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 Freeland",
+ "files": {
+  ".git/HEAD": {
+   "sha512": "76b199f1bffdc6d21547895431b0f85f3857df400225cbd1ae55e7ded09786a8",
+   "size": 23
+  },
+  ".git/config": {
+   "sha512": "90c5f115e1380e4c1584c0d54a563fd0446adb048c609311da5065e2fa99ff47",
+   "size": 302
+  },
+  ".git/description": {
+   "sha512": "f7e152f75b124c3e1c5d12f00427729d9eec4e2c1bf70d7606440a6600d00336",
+   "size": 73
+  },
+  ".git/hooks/applypatch-msg.sample": {
+   "sha512": "536cce804d84e25813993efdd240537b52d00ce9cdcecf1982f85096d56a5212",
+   "size": 478
+  },
+  ".git/hooks/commit-msg.sample": {
+   "sha512": "d6bb7fa747f4625adf1877f546565cbe812ca7dd4168f7e9068e6732555d8737",
+   "size": 896
+  },
+  ".git/hooks/post-update.sample": {
+   "sha512": "473ad124642571656276bf83b9ff63ab1804d3c23a5bdae52391c6f70a894849",
+   "size": 189
+  },
+  ".git/hooks/pre-applypatch.sample": {
+   "sha512": "cb78aa7e9b9c146e5db65d86dd83f04e2b6942a06fab50c704a0fd900683f3b6",
+   "size": 424
+  },
+  ".git/hooks/pre-commit.sample": {
+   "sha512": "4a7ac2ed2ffe50d2a997c3477b5855c3d19423c295a82f7d660be3418217a183",
+   "size": 1642
+  },
+  ".git/hooks/pre-push.sample": {
+   "sha512": "37cd20a090494acb16c2255fe93dadeb409f2553afddc409dad5b5e99c9f5612",
+   "size": 1348
+  },
+  ".git/hooks/pre-rebase.sample": {
+   "sha512": "00d21d5d72386c3d9b5a1c36ba85201f730556a8295d4353af54af7892ab8101",
+   "size": 4898
+  },
+  ".git/hooks/pre-receive.sample": {
+   "sha512": "ee08c11fab7e896b2e09c241954ba7640338b12c75cd8040daf053c31b2f2223",
+   "size": 544
+  },
+  ".git/hooks/prepare-commit-msg.sample": {
+   "sha512": "50ec8a0dd98427e80a82a8d8ce44462a845876e1594c9d0e89483ce9a8aaad61",
+   "size": 1492
+  },
+  ".git/hooks/update.sample": {
+   "sha512": "759abd33e5d1dda9b3e3d3116c47b23f616320d70cd66d567b1c4eeefeb6d785",
+   "size": 3610
+  },
+  ".git/index": {
+   "sha512": "87638d9c3b625a613e6c0a50912ac462759eedd13bfc8753f00a6fba28cd8b97",
+   "size": 137
+  },
+  ".git/info/exclude": {
+   "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b",
+   "size": 240
+  },
+  ".git/logs/HEAD": {
+   "sha512": "f83efb1f191e301050729f64d892325feabcd4aa7d8142a989ec36c987eabd7c",
+   "size": 178
+  },
+  ".git/logs/refs/heads/master": {
+   "sha512": "f83efb1f191e301050729f64d892325feabcd4aa7d8142a989ec36c987eabd7c",
+   "size": 178
+  },
+  ".git/logs/refs/remotes/origin/HEAD": {
+   "sha512": "f83efb1f191e301050729f64d892325feabcd4aa7d8142a989ec36c987eabd7c",
+   "size": 178
+  },
+  ".git/objects/26/e59a3f7aa203286ae126f0a8e72841ff070147": {
+   "sha512": "915c75a38aed6c6f748cfd849dea3d575e9b8bcbb573d075108f7bbdf07f748d",
+   "size": 652
+  },
+  ".git/objects/52/91204fa3c3527608980468924369ae424ca849": {
+   "sha512": "87a9251a97cf2280c0059179ae53f1f9c3f664e2115df2f4eac68c796e3c3216",
+   "size": 52
+  },
+  ".git/objects/b0/ca7529f6f3d116f248a5a2066daf8f126af32a": {
+   "sha512": "48dcce68a31f5718376faf1bc9b3d02496baacd0da0147e10cffb69170a04fa3",
+   "size": 517
+  },
+  ".git/packed-refs": {
+   "sha512": "fc56a09febb914c3be109d067ad9314c9199b5fb081eba2675a20b17fd98abeb",
+   "size": 114
+  },
+  ".git/refs/heads/master": {
+   "sha512": "8d9e49bc136cd5fa782323c3f4d08d9e193ae27d6c22c23dcdddf348a8eeaf2b",
+   "size": 41
+  },
+  ".git/refs/remotes/origin/HEAD": {
+   "sha512": "0d686b330d5704fdbb9588d62bbddda273f86b24db52ddbdb73c0c304aabb8e6",
+   "size": 32
+  },
+  "LICENSE": {
+   "sha512": "049d2d6b850262a028b511e4f04c9c4a8d99f6cb50f287797af6330ce237aafa",
+   "size": 1085
+  },
+  "README.md": {
+   "sha512": "ad37b2e6fd047c497d24c922bf321a8c67d83ea7b89a411eeabdfc2070f2541f",
+   "size": 98
+  },
+  "camp.html": {
+   "sha512": "60223b6ec12e3168a5212dfbbe2a07163e44f2f5c825a26bec749df09ee906e8",
+   "size": 1570
+  },
+  "content/modules.json": {
+   "sha512": "d00b3d092ff44bcdffa1a318f9bb0d31502f8fe51fee95af4e911b8e89ef56a5",
+   "size": 46
+  },
+  "css/bootstrap-theme.min.css": {
+   "sha512": "a317aed548ea8378fea01364ce641ebbd703008e9e11f638d41e0a4ddac73f6b",
+   "size": 24296
+  },
+  "css/bootstrap.min.css": {
+   "sha512": "7892c016b375c0a15d9c12beefc3325f82be49baccbc8a5df5a7473bd141f903",
+   "size": 122069
+  },
+  "css/cover.css": {
+   "sha512": "714d183de137b529d8b47c5d8816129fb4b2c2daea652e9170af133379771423",
+   "size": 2480
+  },
+  "css/styles.css": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "fonts/glyphicons-halflings-regular.eot": {
+   "sha512": "efc910c96b9f5c58ea11a84577cf60ae995503b1ee670bb7e7d4a413b7403769",
+   "size": 20127
+  },
+  "fonts/glyphicons-halflings-regular.svg": {
+   "sha512": "c2e77eab327af1469097c31bc0daf820c066b0222059d8ff0ecebca974b62b75",
+   "size": 108738
+  },
+  "fonts/glyphicons-halflings-regular.ttf": {
+   "sha512": "2b066e06506ef20d69698d37cdec552176ef3f64a1151a99a1d02d72d39ce12c",
+   "size": 45404
+  },
+  "fonts/glyphicons-halflings-regular.woff": {
+   "sha512": "f5366ab255afefe3fe06150e8509e776b5618ff50fe3e0fa8e4d715d645b1e44",
+   "size": 23424
+  },
+  "fonts/glyphicons-halflings-regular.woff2": {
+   "sha512": "3811804f56ec3c82f0bef35de0a9250e546a1e357fb59e2784f610d638fec355",
+   "size": 18028
+  },
+  "img/chebur.jpg": {
+   "sha512": "42719fb2a47a426dc9be26e9a83888c0c23b5bc032ecee1f9fbbd3e0aa85b58f",
+   "size": 67688
+  },
+  "img/deckard-cain.png": {
+   "sha512": "16d4a18e77bc5077fb0de062d27ef45c6686d4fc203a74726d2fc8fdfcbf06ab",
+   "size": 7516
+  },
+  "index.html": {
+   "sha512": "b59cf345265cacaea08a119d88b357f77b57cdf07f90bd1c97effb61d10cb105",
+   "size": 2246
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "586e1e67a6739ac0bbfdc83b8636c98abc969d42907df38ebde8ec325156f4b7",
+   "size": 3647
+  },
+  "js/app.js": {
+   "sha512": "9177e0bfe1e6dcd7d7e622c21fefbead6cb2169632cac80f38286bc48e54c8ac",
+   "size": 836
+  },
+  "js/bootstrap.min.js": {
+   "sha512": "956ddff7f12d671748667d896732adaa1d8ead07615e97e8b5e93caeb551c997",
+   "size": 37183
+  },
+  "js/jquery.min.js": {
+   "sha512": "8c64754f77507ab2c24a6fc818419b9dd3f0ceccc9065290e41afdbee0743f0d",
+   "size": 92629
+  },
+  "tools/load_tools.sh": {
+   "sha512": "1388a6db402ac50f82b349863b0d3f114e9972ded0a7f8398bb2d3d40fe9bc37",
+   "size": 147
+  },
+  "tools/paper-wallet/.git/COMMIT_EDITMSG": {
+   "sha512": "dd8ddba6858d454ad0112cbc836ec8bec3cc5239dc20d85988fafa0e62d848b7",
+   "size": 12
+  },
+  "tools/paper-wallet/.git/HEAD": {
+   "sha512": "76b199f1bffdc6d21547895431b0f85f3857df400225cbd1ae55e7ded09786a8",
+   "size": 23
+  },
+  "tools/paper-wallet/.git/config": {
+   "sha512": "d1d247f3907d8e44179f34f8f290d39e0efaa42f830589eeb257c819a433e90b",
+   "size": 252
+  },
+  "tools/paper-wallet/.git/description": {
+   "sha512": "f7e152f75b124c3e1c5d12f00427729d9eec4e2c1bf70d7606440a6600d00336",
+   "size": 73
+  },
+  "tools/paper-wallet/.git/hooks/applypatch-msg.sample": {
+   "sha512": "536cce804d84e25813993efdd240537b52d00ce9cdcecf1982f85096d56a5212",
+   "size": 478
+  },
+  "tools/paper-wallet/.git/hooks/commit-msg.sample": {
+   "sha512": "d6bb7fa747f4625adf1877f546565cbe812ca7dd4168f7e9068e6732555d8737",
+   "size": 896
+  },
+  "tools/paper-wallet/.git/hooks/post-update.sample": {
+   "sha512": "473ad124642571656276bf83b9ff63ab1804d3c23a5bdae52391c6f70a894849",
+   "size": 189
+  },
+  "tools/paper-wallet/.git/hooks/pre-applypatch.sample": {
+   "sha512": "cb78aa7e9b9c146e5db65d86dd83f04e2b6942a06fab50c704a0fd900683f3b6",
+   "size": 424
+  },
+  "tools/paper-wallet/.git/hooks/pre-commit.sample": {
+   "sha512": "4a7ac2ed2ffe50d2a997c3477b5855c3d19423c295a82f7d660be3418217a183",
+   "size": 1642
+  },
+  "tools/paper-wallet/.git/hooks/pre-push.sample": {
+   "sha512": "37cd20a090494acb16c2255fe93dadeb409f2553afddc409dad5b5e99c9f5612",
+   "size": 1348
+  },
+  "tools/paper-wallet/.git/hooks/pre-rebase.sample": {
+   "sha512": "00d21d5d72386c3d9b5a1c36ba85201f730556a8295d4353af54af7892ab8101",
+   "size": 4898
+  },
+  "tools/paper-wallet/.git/hooks/pre-receive.sample": {
+   "sha512": "ee08c11fab7e896b2e09c241954ba7640338b12c75cd8040daf053c31b2f2223",
+   "size": 544
+  },
+  "tools/paper-wallet/.git/hooks/prepare-commit-msg.sample": {
+   "sha512": "50ec8a0dd98427e80a82a8d8ce44462a845876e1594c9d0e89483ce9a8aaad61",
+   "size": 1492
+  },
+  "tools/paper-wallet/.git/hooks/update.sample": {
+   "sha512": "759abd33e5d1dda9b3e3d3116c47b23f616320d70cd66d567b1c4eeefeb6d785",
+   "size": 3610
+  },
+  "tools/paper-wallet/.git/index": {
+   "sha512": "553f633ca836d20ed32fe5e73c3043b322290f5048c06cb015ebb0ceb1424f72",
+   "size": 529
+  },
+  "tools/paper-wallet/.git/info/exclude": {
+   "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b",
+   "size": 240
+  },
+  "tools/paper-wallet/.git/logs/HEAD": {
+   "sha512": "2b331f8f17899e9333de05ead4f7ff252fcee20a4ecc95a4f5cc5e789961497c",
+   "size": 297
+  },
+  "tools/paper-wallet/.git/logs/refs/heads/master": {
+   "sha512": "2b331f8f17899e9333de05ead4f7ff252fcee20a4ecc95a4f5cc5e789961497c",
+   "size": 297
+  },
+  "tools/paper-wallet/.git/logs/refs/remotes/origin/master": {
+   "sha512": "a9be2513823eb772ceed7dad82ce53ff52f0946f2226b364f3ccf65c86d0bbbc",
+   "size": 282
+  },
+  "tools/paper-wallet/.git/objects/3b/88108f5461c34011d084cba394a3eb09191470": {
+   "sha512": "065c5dc0e42cdcdb3dcf3c1c1535299bbb1f5948d3ac74f74fd31dabc47a2d7b",
+   "size": 901
+  },
+  "tools/paper-wallet/.git/objects/73/df67e9046dd6ce3428a23f50de45a4a0d972f0": {
+   "sha512": "48924b3e18be35b5a7e3c06ad148d8a192806cf7ebfcb8450ff8bc8c5453ac5a",
+   "size": 122
+  },
+  "tools/paper-wallet/.git/objects/84/585e2bab14c3327860e78942a946ab4d596055": {
+   "sha512": "5e2d2e3a6c2783b04766629784a0dc52b9bd98305148af3e067c4b80ef282889",
+   "size": 11646
+  },
+  "tools/paper-wallet/.git/objects/90/59a0872cd83ab4fb835772ca741dc2451dd15e": {
+   "sha512": "540378b02bf38de7474c0efc156b166bea7ae2d26051b7c6ba05690df520b222",
+   "size": 2026
+  },
+  "tools/paper-wallet/.git/objects/96/3affa02e6a2a73ceb196f07fd080bc80b1fc96": {
+   "sha512": "655e19a086159766a5bc41affbbfc47de286145bef967f2e521a966c3dc5a223",
+   "size": 213
+  },
+  "tools/paper-wallet/.git/objects/b3/417c5dbfecb3b7c83a0a56fe141b7794ce0afe": {
+   "sha512": "f88a8123084eef1f88a324d963654c64a15b8a67fe74115106d2f1af279e1de8",
+   "size": 763
+  },
+  "tools/paper-wallet/.git/objects/b4/e67901f28d1e2e63ec622ac2fe5cac6a3b8dd3": {
+   "sha512": "26d136ee2d71e456485903d744e172ef57d46b2a6830c07b4b57869f3bc86ce0",
+   "size": 186
+  },
+  "tools/paper-wallet/.git/objects/c9/14ef8ce55ebaec51cc958a044a6db50a7afe7d": {
+   "sha512": "821cfaa76efd49002afd9569ff8e11b215ba362351dedc9d4f67777a64219f38",
+   "size": 269118
+  },
+  "tools/paper-wallet/.git/objects/e7/457e7156f8d845f3a638f259e6699724d43b5d": {
+   "sha512": "2f5b798b54f76995a6bf3e546cb911f3d25d24c94869529cd1f9d1a6e2076ba0",
+   "size": 408
+  },
+  "tools/paper-wallet/.git/objects/ec/6f191a4c12a10a547d3634b2e9a3c8c513dd05": {
+   "sha512": "35404263978c01dd2c1ea9c8efd18cb16fe61bb63cd3acf0d1a2d0dfa67694ac",
+   "size": 153
+  },
+  "tools/paper-wallet/.git/refs/heads/master": {
+   "sha512": "427ca85d673935b1af062db27bac4988a819462ba964445db646b66fc0b3b576",
+   "size": 41
+  },
+  "tools/paper-wallet/.git/refs/remotes/origin/master": {
+   "sha512": "427ca85d673935b1af062db27bac4988a819462ba964445db646b66fc0b3b576",
+   "size": 41
+  },
+  "tools/paper-wallet/README.md": {
+   "sha512": "30ea00337c63498eb982ac1e3706c409bc212ea04139d9811aea7e1d6613f981",
+   "size": 356
+  },
+  "tools/paper-wallet/art.png": {
+   "sha512": "cc46addf9ad7288d42933a016c3480b6e3c6b62c29dfaf7745e8e52d8e9f6802",
+   "size": 12211
+  },
+  "tools/paper-wallet/favicon-16x16.png": {
+   "sha512": "fe6c02ce0e08ed0d6a477be2da31030f2a0527796cf2384d314b9befb2e138d4",
+   "size": 388
+  },
+  "tools/paper-wallet/favicon-32x32.png": {
+   "sha512": "ddbc78960719551a6227c77ad479b0af67a99e3105fd1175baf4823f36bb9d55",
+   "size": 743
+  },
+  "tools/paper-wallet/favicon-96x96.png": {
+   "sha512": "1dd68c147818dc29fccbb7a886878e4821b13adb6ca82478d84d349c94c712f3",
+   "size": 2005
+  },
+  "tools/paper-wallet/index.html": {
+   "sha512": "6948b80c13fece3ecd8fdfbf059200adce1ac8c3bde3eb41b72e9a8a1cc88af7",
+   "size": 542290
+  },
+  "tools/paper-wallet/logo.png": {
+   "sha512": "03d9d106085e0aaeac2eaed3e2551aa1cb155ffb98095e1fcfd85ff3f70afee3",
+   "size": 1438
+  },
+  "tools/web-wallet/.git/HEAD": {
+   "sha512": "76b199f1bffdc6d21547895431b0f85f3857df400225cbd1ae55e7ded09786a8",
+   "size": 23
+  },
+  "tools/web-wallet/.git/config": {
+   "sha512": "82070e1e002b58a329be80e47ac695d5a50440234a98457e3ab98ca42e9ccbcd",
+   "size": 311
+  },
+  "tools/web-wallet/.git/description": {
+   "sha512": "f7e152f75b124c3e1c5d12f00427729d9eec4e2c1bf70d7606440a6600d00336",
+   "size": 73
+  },
+  "tools/web-wallet/.git/hooks/applypatch-msg.sample": {
+   "sha512": "536cce804d84e25813993efdd240537b52d00ce9cdcecf1982f85096d56a5212",
+   "size": 478
+  },
+  "tools/web-wallet/.git/hooks/commit-msg.sample": {
+   "sha512": "d6bb7fa747f4625adf1877f546565cbe812ca7dd4168f7e9068e6732555d8737",
+   "size": 896
+  },
+  "tools/web-wallet/.git/hooks/post-update.sample": {
+   "sha512": "473ad124642571656276bf83b9ff63ab1804d3c23a5bdae52391c6f70a894849",
+   "size": 189
+  },
+  "tools/web-wallet/.git/hooks/pre-applypatch.sample": {
+   "sha512": "cb78aa7e9b9c146e5db65d86dd83f04e2b6942a06fab50c704a0fd900683f3b6",
+   "size": 424
+  },
+  "tools/web-wallet/.git/hooks/pre-commit.sample": {
+   "sha512": "4a7ac2ed2ffe50d2a997c3477b5855c3d19423c295a82f7d660be3418217a183",
+   "size": 1642
+  },
+  "tools/web-wallet/.git/hooks/pre-push.sample": {
+   "sha512": "37cd20a090494acb16c2255fe93dadeb409f2553afddc409dad5b5e99c9f5612",
+   "size": 1348
+  },
+  "tools/web-wallet/.git/hooks/pre-rebase.sample": {
+   "sha512": "00d21d5d72386c3d9b5a1c36ba85201f730556a8295d4353af54af7892ab8101",
+   "size": 4898
+  },
+  "tools/web-wallet/.git/hooks/pre-receive.sample": {
+   "sha512": "ee08c11fab7e896b2e09c241954ba7640338b12c75cd8040daf053c31b2f2223",
+   "size": 544
+  },
+  "tools/web-wallet/.git/hooks/prepare-commit-msg.sample": {
+   "sha512": "50ec8a0dd98427e80a82a8d8ce44462a845876e1594c9d0e89483ce9a8aaad61",
+   "size": 1492
+  },
+  "tools/web-wallet/.git/hooks/update.sample": {
+   "sha512": "759abd33e5d1dda9b3e3d3116c47b23f616320d70cd66d567b1c4eeefeb6d785",
+   "size": 3610
+  },
+  "tools/web-wallet/.git/index": {
+   "sha512": "afd287940f84021458062ea1dfd15dd40dccbadef7efdea8c9b58addde87d789",
+   "size": 2244
+  },
+  "tools/web-wallet/.git/info/exclude": {
+   "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b",
+   "size": 240
+  },
+  "tools/web-wallet/.git/logs/HEAD": {
+   "sha512": "fba44d9a6d40709105d40864ffe3c6bf1176475d972639ed190cac92452b8668",
+   "size": 187
+  },
+  "tools/web-wallet/.git/logs/refs/heads/master": {
+   "sha512": "fba44d9a6d40709105d40864ffe3c6bf1176475d972639ed190cac92452b8668",
+   "size": 187
+  },
+  "tools/web-wallet/.git/logs/refs/remotes/origin/HEAD": {
+   "sha512": "fba44d9a6d40709105d40864ffe3c6bf1176475d972639ed190cac92452b8668",
+   "size": 187
+  },
+  "tools/web-wallet/.git/objects/01/1e87051c8cf1f117883ec8cfcca53112b89e7e": {
+   "sha512": "bc053253ecea8a648ac22a3e8b572829e8b3d776f86cfd80d2a8acfa27c4e9e5",
+   "size": 379
+  },
+  "tools/web-wallet/.git/objects/02/87ac83fe99a3085c6e0f8d762a5a9287576a5f": {
+   "sha512": "4a3fb103785bb7daef0b592269fb20f927aee20e6783874957b9609d49d8b48a",
+   "size": 78
+  },
+  "tools/web-wallet/.git/objects/03/3af6b364edab37c6b4bf70572c916e6891725c": {
+   "sha512": "67ce19a6c82df6b400bc28d0c25be142696e934b7f9ff341b84b4c904241c0d0",
+   "size": 171
+  },
+  "tools/web-wallet/.git/objects/05/b6a5ed34d5374329f2cea99b6ad73ea0eadb9b": {
+   "sha512": "11164eb44a38971ed88d48c90e99f176cd5736d5b568283b36df9c6c75c9e73a",
+   "size": 425
+  },
+  "tools/web-wallet/.git/objects/06/2ee429cc0a565245a20bba9b6ec9d38bc9e472": {
+   "sha512": "6d4083a182748f3f7dd91f11053b04c0ee01d10699dc4e79ed1c5a66e622711e",
+   "size": 265
+  },
+  "tools/web-wallet/.git/objects/06/f1798b3115b3dc3392ca986d801c664ca1e784": {
+   "sha512": "94d3795301649483a9f065fa754929542b77d309dceb77419d86ef5a809601f3",
+   "size": 68706
+  },
+  "tools/web-wallet/.git/objects/0a/db51ca656f256f2ba77c18e67dad226bab066f": {
+   "sha512": "1c53a2a3984909015b6951b5ea598367eb17a32469328547935c2e83e5a8830c",
+   "size": 4962
+  },
+  "tools/web-wallet/.git/objects/0b/69310cfdf45a68d8408953b16d6e51cd9bdc6a": {
+   "sha512": "5b82e5abc7200137f04e0d8dc6c8d1e790dea3669be262f07a7fe3bcaae4c5cb",
+   "size": 7554
+  },
+  "tools/web-wallet/.git/objects/0c/8c02863fda06d7dfdadb547566fe7ec2761776": {
+   "sha512": "ad5694e9424a1df2ed75d6329b2a392d67b70e7784a6928e3d623a54f15c8a78",
+   "size": 640
+  },
+  "tools/web-wallet/.git/objects/0d/617c881d1d42e205fc11b8f62f41163d6f9392": {
+   "sha512": "904801132c65f1e4556de25da535122c15d4b0a1c5e9cb790509c83b618cd911",
+   "size": 349
+  },
+  "tools/web-wallet/.git/objects/10/92471edf5e6c69fce8a25b7400d4546e29470e": {
+   "sha512": "733187d30a39d6d00e2a29615861f149dd1301355f609a7cb4badb97868ad99f",
+   "size": 6312
+  },
+  "tools/web-wallet/.git/objects/11/a51ff7eb7df7119967de23226fb9a9543c51dd": {
+   "sha512": "3ea9dfb117ef267a4c9390ad9031753774119553b8378c29794cd7707d2d78e8",
+   "size": 16655
+  },
+  "tools/web-wallet/.git/objects/13/7b03cd954aba5dfe5dde209d793a2beb72004b": {
+   "sha512": "4195ba116a2ca7e12c1e8d332b06f65accd2b4e8a4fe4a6b4955bbf8427071d3",
+   "size": 286
+  },
+  "tools/web-wallet/.git/objects/14/1c1bf0aa194fc960b4c936f9462c46cc33930b": {
+   "sha512": "427331adb25e2017804645afe5a8fe491125bb08627862e1c9174974ee64f9fd",
+   "size": 150
+  },
+  "tools/web-wallet/.git/objects/14/1f7b07a6211768c0ae3e4f9c703f39d0e90122": {
+   "sha512": "c61c722e3e596a5cc11ab72ff57b40b81ce1f562db2754a8167ec0571f8a86eb",
+   "size": 38167
+  },
+  "tools/web-wallet/.git/objects/18/4c114bf1f1bd4dc9ea983fa16a038a0184d7fb": {
+   "sha512": "57a9df76178c513539227e56e5095fdeda404c7ea91f33d6602a73865d606c09",
+   "size": 200
+  },
+  "tools/web-wallet/.git/objects/18/da2737072b66e915dbbeea17452e50e08cc92e": {
+   "sha512": "92b385553585283d4894a955e8a432bbe858bb707cd4d4ca630d2373147dd09b",
+   "size": 255
+  },
+  "tools/web-wallet/.git/objects/19/5e4177988ba027453268fa0f73db302acd7465": {
+   "sha512": "ad786f6e7a1973d7232f0873b6af2970b65794bcb43f4eb5965af483e167da4e",
+   "size": 520
+  },
+  "tools/web-wallet/.git/objects/2a/be7a225e4832aef81f09fa867e3eca937be5b0": {
+   "sha512": "092a69bae272a7713803a13fdf9d01fcd2cf0ee3a0b1df2082c1411124875e51",
+   "size": 285
+  },
+  "tools/web-wallet/.git/objects/2f/6f98905ba5d202ece47cbd7d5cba969f573679": {
+   "sha512": "ab5c90358eee7c5605a6550492517b509cfb4922aabe53579aa20981eda10e1c",
+   "size": 54
+  },
+  "tools/web-wallet/.git/objects/32/a9be4f044186b57029b8ac90261aa70df9eb2d": {
+   "sha512": "38d6608fcc3cf4e8c77b145c6fd1e71ac3497761713020fd4ef40a875cd758fa",
+   "size": 4921
+  },
+  "tools/web-wallet/.git/objects/3f/e82adf13246e96fb251da403363752f3a20e40": {
+   "sha512": "ec55681cafa11d21f5efa8c1b4bbbd50c135f8565bc0986b8d79ae36f601c4dd",
+   "size": 11007
+  },
+  "tools/web-wallet/.git/objects/40/befb158cc31a9faccee399183c78e625b51e27": {
+   "sha512": "0c7ee2c5d7aa47be56402c4cea2232557c5690115be32ea8b547ca2e5f56d13d",
+   "size": 1197
+  },
+  "tools/web-wallet/.git/objects/4b/7a769ebc1230ba7f9214f959ee89a1f4eadd31": {
+   "sha512": "45c81bb3ea9e32e489a1ef777ff83fa97fcdc72a9456cb02f9b1ebde79ede6d2",
+   "size": 162
+  },
+  "tools/web-wallet/.git/objects/53/d1a6870458c0313574f064b1b60bf8ea57fbd7": {
+   "sha512": "09135d6737d9f8e75fcaf7515b5acbe3c6f2a7541a33685d283d52f98f3c0690",
+   "size": 168
+  },
+  "tools/web-wallet/.git/objects/59/447e9c4e9e4d6cc35a449038e4b9a770a270d9": {
+   "sha512": "ed33c4b29bbb1f6678bee492a12e73f73d3836a0c7002caf032dacdca01a28b2",
+   "size": 200
+  },
+  "tools/web-wallet/.git/objects/63/cf01a8992d7bc154efc7d0e11d0ae8fb7f1970": {
+   "sha512": "19310baff2d800b673df26e309db1c4d4cf6f16ee75f3624a25c9f052159e899",
+   "size": 4948
+  },
+  "tools/web-wallet/.git/objects/6c/f238e3f5815c24396bb95c8ff1ddc146cef18b": {
+   "sha512": "e4fa342dc5836b96ef03fbba8f75ffbfb2c18f3ef3178d1fa3f93731b7ca362f",
+   "size": 105
+  },
+  "tools/web-wallet/.git/objects/75/63cbafd47f0259e78f7fb622a6e816b41860cc": {
+   "sha512": "b21c7e03ac10e743ae601e5c8d2c7e0bb6ded838541f06dec27b30f221bb973b",
+   "size": 14258
+  },
+  "tools/web-wallet/.git/objects/78/5f909a3e153397db351e0ac9b7d7ace1c80949": {
+   "sha512": "c450ed8788f789846462b4e62ec81acdf31797958f475fcf1eae661c4bcd044d",
+   "size": 150
+  },
+  "tools/web-wallet/.git/objects/7c/1561a8b96d7b6242c0b2135eafa28796603cbf": {
+   "sha512": "e8dda2b7c47a4dad77999f6e52d59de87e7f9d23ca4dd7045078fdbd18b2cd0a",
+   "size": 10258
+  },
+  "tools/web-wallet/.git/objects/7d/19e9be28c0584269e9cfb6db2a2096579d97e0": {
+   "sha512": "3cac1d2dc86960627a5715a23478fe9620795486f208db7c2add022fc2d583e6",
+   "size": 166
+  },
+  "tools/web-wallet/.git/objects/83/e493cf241ca4fd4c817f89a043fb7598ad8e1e": {
+   "sha512": "d13c30149739d03e648a8a06f0bf15fa97bfc8cdf469e2109fe993992f07a2e3",
+   "size": 23965
+  },
+  "tools/web-wallet/.git/objects/84/f804f455bcdddeb3525fe4e204e4ab28f21432": {
+   "sha512": "09075d97fcdf7732146b8ad24100fd324f44b1599e8a6c939075bb89ff5bc29d",
+   "size": 322
+  },
+  "tools/web-wallet/.git/objects/87/f0005457f3a529fae2e1ab91174e5bbd35a8a0": {
+   "sha512": "0e87c3e5e32bb2eefed5c480b2687e7ac0d96d3c1df071b4a737379d52c7c437",
+   "size": 25958
+  },
+  "tools/web-wallet/.git/objects/88/b181ba9d7ce4ae9f95cc3ba4037b842c89c398": {
+   "sha512": "2b1ae6119a35de71878f932d9c88dfa675ad21fb8960e427737e2f15a71cf408",
+   "size": 322
+  },
+  "tools/web-wallet/.git/objects/8c/54182aa5d4d1ab3c9171976b615c1dcb1dc187": {
+   "sha512": "436444c926c7839519ea0f8e7e2afc15b71d7a63124a4f404c7b1a649543002c",
+   "size": 23190
+  },
+  "tools/web-wallet/.git/objects/8d/90ac6a155265c7647010f7bcb97caccc2b0364": {
+   "sha512": "94876c5a12969d1f085920780877321c0161cec52e3cab2672c4fe14f048fafd",
+   "size": 17266
+  },
+  "tools/web-wallet/.git/objects/97/dec7af14303e03af2cac1781a983e38cbfcfbb": {
+   "sha512": "b8e353fc3b0037ec89625b1ab3ce0f92943adef1b983600818b131ac50511b6d",
+   "size": 160
+  },
+  "tools/web-wallet/.git/objects/9e/5c9616f2b2906f0e01a8a2c236cb64b75c9ff9": {
+   "sha512": "ce70383a4bb693e054d1761d9ebdddb3da1c51e404c050397b1cd1f337d882ac",
+   "size": 152
+  },
+  "tools/web-wallet/.git/objects/a4/3bdd9061654ee79b48c7cf2bfc06289d5f8fe3": {
+   "sha512": "2e5bef2fa5da18329683913a8093b243c51ad748491ca33b55c453b68b580178",
+   "size": 27631
+  },
+  "tools/web-wallet/.git/objects/a5/2ef8ac4c8e9ac28d1a6b6e8a98402cd652ff5e": {
+   "sha512": "0782f88343d8408378b37c34051d46ad6d921fda4d0becd1c2d70a7df027294d",
+   "size": 117
+  },
+  "tools/web-wallet/.git/objects/a6/aa3756083595d91c81f3d2b4e8f247e0d55e38": {
+   "sha512": "9b535b01cb7f94b1a3b6308daeb2982110b608cf52d1a46242c10017d6344139",
+   "size": 59
+  },
+  "tools/web-wallet/.git/objects/a7/de9191b81e616645492bd3b23083fff95f5459": {
+   "sha512": "0b71234f526f3004ffd57e1289b0994c71ce00ce8973506232a182a5043a4d87",
+   "size": 117
+  },
+  "tools/web-wallet/.git/objects/a8/8ab3d040b78fa371b0de4ccb1b9f3acc65dc7e": {
+   "sha512": "3d498d4509b6aef4bda5679655aaa861a58d55c2b54d4d1dfb90feeb8e765c6e",
+   "size": 223
+  },
+  "tools/web-wallet/.git/objects/a9/29d15f534b2205bd805b547e3e3f175a1bd87b": {
+   "sha512": "4f40011d21d49d3a93dbee609b5bc5124a88d7a1bb7e14836574bdd2e833e2d5",
+   "size": 649
+  },
+  "tools/web-wallet/.git/objects/aa/d22f2ab764283a811e6b3f8996b6eda9da3a24": {
+   "sha512": "89dfc7b1685950fd50701ea6517dd32582a4221f3355d3ee00c5990b1e57996e",
+   "size": 8303
+  },
+  "tools/web-wallet/.git/objects/ab/14c2e58610b84d10d7d0b8090199150b377281": {
+   "sha512": "014077c28e246f827536e616a2a91e90f675b6e30eeb20383372ab4bbcfd7435",
+   "size": 6686
+  },
+  "tools/web-wallet/.git/objects/ac/c475badd8430bb3cd875e436c6093cc7510a29": {
+   "sha512": "bcbeb98269d8f9e65f284d4568e9283e5e98fa6dfb3e5c5e85f9ce4baaf219e8",
+   "size": 235
+  },
+  "tools/web-wallet/.git/objects/b7/e9ba8e21765fcabc7c63291704354bfe05d6b0": {
+   "sha512": "a9b59c9799a0856330bdfe32b0d6996c3e878bf3ec8489edc86cf0f24e061da9",
+   "size": 235
+  },
+  "tools/web-wallet/.git/objects/b8/1400fb049dded86a1e942ddf5343c3586f57a7": {
+   "sha512": "74a5c6bb6445c3c30dc7fdd0c07ed11d833127a36d3107e16eedd8af1f03a120",
+   "size": 234
+  },
+  "tools/web-wallet/.git/objects/bb/c6ce8346696240b89ea640e8c7b25014d3464e": {
+   "sha512": "9e9cbb7b3155b78039122738a122842743fbd00452e809ed8dd526b28974df8d",
+   "size": 6320
+  },
+  "tools/web-wallet/.git/objects/c6/f828eee13bf5afee434d1e0c494ec4b4e60b8c": {
+   "sha512": "46de2352ed0bfc24aead2e5d2e0aa41851d5affe8b9a8057c2674684869a233d",
+   "size": 5446
+  },
+  "tools/web-wallet/.git/objects/d1/84101db2f0e5361f8bc63ff8fac1e54521a0d5": {
+   "sha512": "060f21f0a311fc6d7e0c97081cfcf78017a8c0a9f0aa2e3ecaec78758373b10e",
+   "size": 952
+  },
+  "tools/web-wallet/.git/objects/d5/f0b485ec98ec97c755055cba30560aeb025a31": {
+   "sha512": "04fb0d21780d5a038f895a9597069bcee444186ecbadd4a8ad3f09f6e9c448de",
+   "size": 15229
+  },
+  "tools/web-wallet/.git/objects/de/7643e0a83e4794fe7bd70b0731b0242023feff": {
+   "sha512": "8d66c96a8cc877d5b785845d97c8e1ebadfeaf13d9ca4cae4779fe7174afd6bf",
+   "size": 321
+  },
+  "tools/web-wallet/.git/objects/df/4e5d48117f97a4a9dc0526387ecfa71d29cb9b": {
+   "sha512": "0f4abee758f5a46d2b04b74a3d057428c4a91d1dc56a623ec491697d1673dc51",
+   "size": 149
+  },
+  "tools/web-wallet/.git/objects/e5/043ccc277f885834517d395d028872177f74c1": {
+   "sha512": "fb8968e7b25c406d78de01be6cee0fd80a419aa7ecc2a21a9acab635dcf3a5bb",
+   "size": 9688
+  },
+  "tools/web-wallet/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+   "sha512": "93cae1a96a06b60f4ecd96daa1f436500ee6c1a4c2e598db3e42ab69f2a2d00d",
+   "size": 15
+  },
+  "tools/web-wallet/.git/objects/eb/1bd728f03f0fd62e5f5d38e31862353a9d80e1": {
+   "sha512": "aebdbdde5e48254806ab89c4c9a44ec63b6013cbc54394cae5a5dc773da0193f",
+   "size": 201
+  },
+  "tools/web-wallet/.git/objects/fc/478085289599fc77888dc27c1835e22c20bc4f": {
+   "sha512": "aa6c526315170c2e2a9c8f0128476ed54414995a7054dc39bcbf826e2e5eb651",
+   "size": 24
+  },
+  "tools/web-wallet/.git/objects/fd/cba4d052a799f835ee5afb0c86af4a899de25a": {
+   "sha512": "471e18e6c94e58cffbf23894471cd0a6b352eaa9d68c01056d09b8705e958df1",
+   "size": 427
+  },
+  "tools/web-wallet/.git/objects/ff/b13ab5b59a589af11141dc9554841ae194a761": {
+   "sha512": "b3538682b0310d3e8a8b8551f7035e036d73780f7e1d0f9c146e9a805841c2ae",
+   "size": 7101
+  },
+  "tools/web-wallet/.git/packed-refs": {
+   "sha512": "f23a78dbdbe948aa75ed03bd69b6d421914e3a20539340cb72364773652d89b8",
+   "size": 114
+  },
+  "tools/web-wallet/.git/refs/heads/master": {
+   "sha512": "8dcd4eda607c7f69410045eabf006a25bcacb12c1e1db27dd552eba4a4ec04dc",
+   "size": 41
+  },
+  "tools/web-wallet/.git/refs/remotes/origin/HEAD": {
+   "sha512": "0d686b330d5704fdbb9588d62bbddda273f86b24db52ddbdb73c0c304aabb8e6",
+   "size": 32
+  },
+  "tools/web-wallet/README.md": {
+   "sha512": "91ce2d9fc9b08fa59be3407bd125175772b5c7996fd9cd2c686ad93680674b54",
+   "size": 794
+  },
+  "tools/web-wallet/css/bootstrap.min.css": {
+   "sha512": "febe902d6c1636802ff40fdd48f4519ef3d2c249c80889b08787e032fb1c912b",
+   "size": 138725
+  },
+  "tools/web-wallet/css/css.css": {
+   "sha512": "f7162f3b1d14b5e946d762deb16a8be3a45e7b90dd738ca226178fcdc1710b18",
+   "size": 105
+  },
+  "tools/web-wallet/css/main.css": {
+   "sha512": "83ad27f360ee12fd9801f6f4cd2d0784596e39f0317e65f5a4b56abebd1b7a94",
+   "size": 17679
+  },
+  "tools/web-wallet/fonts/glyphicons-halflings-regular.woff": {
+   "sha512": "88beda715a3de8ea031048feb71fd3ffff9c695fd9874b06c8b1d31c88c7a8a6",
+   "size": 23320
+  },
+  "tools/web-wallet/img/apple.png": {
+   "sha512": "9a5d3017171bde9214cbb4701611263c81e7a51165a1ae29ba471dc1d3049132",
+   "size": 17765
+  },
+  "tools/web-wallet/img/favicon-16x16.png": {
+   "sha512": "f49bf64391f338b1825cdac99ac6e86d0ad65563fac9bb9d76e42d232ecbe42a",
+   "size": 208
+  },
+  "tools/web-wallet/img/favicon-32x32.png": {
+   "sha512": "a89c6403570e70e3baf2347a8028b89e0be3c815f465b54963f44e5aa5069494",
+   "size": 324
+  },
+  "tools/web-wallet/img/favicon-96x96.png": {
+   "sha512": "cd301bfa5136ccd28d1e7d1df09c95c30b74854346b09ec5fe41619cb4f7988b",
+   "size": 654
+  },
+  "tools/web-wallet/img/preview.jpg": {
+   "sha512": "c24a79b5e268404edcb2f72622e801b3a0ef4c68e623446557034c64537e3d0f",
+   "size": 68981
+  },
+  "tools/web-wallet/img/progress_lock.png": {
+   "sha512": "4baf70583792a6bf1ba537fe0a85552448dfaf2a52bc8958f9248be370ea1ba8",
+   "size": 16331
+  },
+  "tools/web-wallet/img/qr.jpg": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "tools/web-wallet/img/tiny_grid.png": {
+   "sha512": "e53b7c138830fd713c91d56fc232b41ac2d410647b70acabdccfabcb44da1a4c",
+   "size": 177
+  },
+  "tools/web-wallet/index.html": {
+   "sha512": "9436d78137500a63e63eb979b60aa5abd74538286ffbb6085665dfb3321f8e62",
+   "size": 19836
+  },
+  "tools/web-wallet/js/app.js": {
+   "sha512": "d62d5af8754ae7d51d6098fed77894efa8acbfcb27732f963a6183dcdd6ac508",
+   "size": 31334
+  },
+  "tools/web-wallet/js/bitcoinjs.min.js": {
+   "sha512": "f75af4d38c45e289182ee4e44e103b387c835745da449613af4d554b01009418",
+   "size": 73217
+  },
+  "tools/web-wallet/js/bitcointjs.min.js": {
+   "sha512": "f7e165137335f97e063d087611cf4636887e83b5cd53bf9af272c33cee0c1053",
+   "size": 67891
+  },
+  "tools/web-wallet/js/bootstrap.min.js": {
+   "sha512": "9e57976ae90df75ede6fca96e4030cebc972908c30056ffc9da09ed6c216b576",
+   "size": 31824
+  },
+  "tools/web-wallet/js/jquery-ui.min.js": {
+   "sha512": "f61c5502fc1411c0925d87b9fcecb119c44180a9bf2471a774e1a2819b0b577e",
+   "size": 43937
+  },
+  "tools/web-wallet/js/jquery.min.js": {
+   "sha512": "69d2552d9aa95b06cba2b1cc1a1600fa887df19bfd44f66fac22e487b4bc37bf",
+   "size": 93036
+  },
+  "tools/web-wallet/js/moment.js": {
+   "sha512": "9c67dc714bce3d8374b8ea35e6527d397593d2aeb784bad5719b4a5c9d76f58e",
+   "size": 27529
+  },
+  "tools/web-wallet/js/rw.js": {
+   "sha512": "6d2b800154b92f659b80b934884223adafdbb3baa6ec2a53a0ba6c619df7d469",
+   "size": 26899
+  },
+  "tools/web-wallet/js/tx.js": {
+   "sha512": "73e65919ed888b3a8e4df5476a891c0249e00622f4fdb92a1c971f9263c7235e",
+   "size": 17898
+  },
+  "tools/web-wallet/js/util.js": {
+   "sha512": "360df1d636383144a24c334ca1f338e1d0564f119a65e47810a1f7f21c13ce6b",
+   "size": 2419
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1557835841,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HC3sNjZXlHbhz93Ank4BZzt/5U5xm1q9nK2BgIr5pnviKLE4AD75svHSCE5EyPY2mvLspwWlCR3X9XnlFANtzew=",
+ "signs": {
+  "13h93YBktjtqtxYVPfXdDwXTDJzjCxfR4i": "HGDssts8qL5zwI/Yj6TPbyPFuT0QclkPraiDyjl8l1twI/dp2TCmjx0aWsPo74Puyx4TqNPVUOzq4pryWRuxgVE="
+ },
+ "signs_required": 1,
+ "title": "Freeland Zeronet",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.6.5"
+}
